@@ -1,0 +1,13 @@
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\bin\Debug\netcoreapp3.1\Лаб10.exe
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\bin\Debug\netcoreapp3.1\Лаб10.deps.json
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\bin\Debug\netcoreapp3.1\Лаб10.runtimeconfig.json
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\bin\Debug\netcoreapp3.1\Лаб10.runtimeconfig.dev.json
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\bin\Debug\netcoreapp3.1\Лаб10.dll
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\bin\Debug\netcoreapp3.1\Лаб10.pdb
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.csprojAssemblyReference.cache
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.AssemblyInfoInputs.cache
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.AssemblyInfo.cs
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.csproj.CoreCompileInputs.cache
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.dll
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.pdb
+E:\КПІ\ОП\Лаби\Лаб10\Лаб10\obj\Debug\netcoreapp3.1\Лаб10.genruntimeconfig.cache
